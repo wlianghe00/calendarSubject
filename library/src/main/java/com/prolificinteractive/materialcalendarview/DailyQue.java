@@ -8,4 +8,7 @@ package com.prolificinteractive.materialcalendarview;
 public class DailyQue {
     public String subject;
     public long queId;
+    public String ansType;
+    public String ans;
+    public long type;
 }
